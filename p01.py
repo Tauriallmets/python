@@ -17,7 +17,9 @@ turtle.up()
 turtle.goto(0,200)
 turtle.down()
 turtle.left(180)
-turtle.forward(100)
+turtle.forward(200)
+turtle.forward(-100)
+turtle.right(90)
 turtle.forward(-200)
 
 #ülesanne 1
@@ -35,6 +37,6 @@ turtle.left(72)
 turtle.fd(100)
 turtle.left(72)
 
-
+ 
 
 turtle.done()
